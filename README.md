@@ -41,6 +41,6 @@ Backend & Database
 
 # App will be available at:
 
-*link*
+*[link](https://winnie-mbb.vercel.app/)*
 
 (if there are any bugs or errors in the code/site, forgive me, i'm a beginner dev :p)
